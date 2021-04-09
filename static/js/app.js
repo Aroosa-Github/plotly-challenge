@@ -42,6 +42,7 @@ function init() {
 
 } // close init() function
 
+
 // create a function to reset divs to prepare for new data
 function resetData() {
 
@@ -364,3 +365,4 @@ function optionChanged(id) {
 
 // call the init() function for default data
 init();
+
