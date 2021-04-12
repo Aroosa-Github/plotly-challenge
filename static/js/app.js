@@ -18,6 +18,7 @@ function init() {
 
     // reset any previous data
     resetData();
+    
 
     // read in samples from JSON file
     d3.json("data/samples.json").then((data => {
